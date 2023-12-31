@@ -13,7 +13,7 @@ To develop an understanding of basic web scraping and to be able to independentl
 
 ## Getting Started
 Colab Notebook:
-https://colab.research.google.com/drive/162UpWqnTVGmu93Lfg9WDWXUuVmR4yuS2?usp=sharing 
+https://colab.research.google.com/drive/162UpWqnTVGmu93Lfg9WDWXUuVmR4yuS2?usp=sharing
 
 Task:
 Webscrap any of these google scholar webpages given below 
