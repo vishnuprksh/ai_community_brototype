@@ -26,3 +26,6 @@ https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=brain+stimulation&oq=bra
 
 Scrap the author names, title, year, and publication.
 
+Task 2:
+Get movie name, year and a brief summary of the top 10 random movies from IMDB.
+reference : https://www.w3resource.com/python-exercises/web-scraping/web-scraping-exercise-24.php
