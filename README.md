@@ -1,2 +1,1 @@
-# datascience_brototype
-Public repo for data science community in Brototype
+This is the public repo for keeping files from Brototype's AI community weekly workshops.
