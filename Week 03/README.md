@@ -6,7 +6,7 @@ ___
 - **Model Development and Improvement**: Scraped data enables feature engineering, specific model training, and benchmarking for better performance.
 - **Efficiency and Benefits**: It automates data collection, saves costs, and fuels innovation across various fields.
 ## Problem Statement
-**What are some challenges for webscraping quality data? and how can you rectify them?
+What are some challenges for webscraping quality data? and how can you rectify them?
 
 ## Goal
 To develop an understanding of basic web scraping and to be able to independently gather dat at will.
