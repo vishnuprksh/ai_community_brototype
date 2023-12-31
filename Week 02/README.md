@@ -1,5 +1,5 @@
 # Writing an AI to play Minesweeper game
-![Alt text](image.png)
+![Alt text](image.png) - Prepared by Afsal BCE 126
 
 ## Why this activity?
 The following activity uses an AI concept called 'Knowledge based agents' which are useful in;
