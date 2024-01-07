@@ -1,4 +1,4 @@
-# Web Scraping Basics (prepared by Vishnu Prakash BCE 114)
+# Deep Learning Basics (prepared by Vishnu Prakash BCE 114)
 
 ___
 ## Why this activity?
