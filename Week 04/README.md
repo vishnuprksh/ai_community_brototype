@@ -9,6 +9,7 @@ ___
 
 ## Problem Statement
 Create a neural network with the below architecture.
+
 ![Alt text](image-1.png)
 
 

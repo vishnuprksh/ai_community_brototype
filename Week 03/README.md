@@ -1,5 +1,4 @@
-# Web Scraping Basics
-prepared by Afsal BCE 126
+# Web Scraping Basics (prepared by Afsal BCE 151)
 ___
 ## Why this activity?
 - **Data Acquisition**: Web scraping provides vast, varied, and dynamic data to train and improve machine learning models.
